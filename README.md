@@ -2,7 +2,9 @@
 Applying simple regression methods in numPy. Each implementation is to have their own respective MODEL-example.py.
 
 # ols.py
-Multple Linear Regression
+Multple Linear Regression implementation
+
+Usage:
 ```
 from ols import OLS
 
@@ -14,7 +16,9 @@ weights = m.get_weights()
 ```
 
 # knn.py
-K Nearest Neighbours Classification
+K Nearest Neighbours Classification implementation
+
+Usage:
 ```
 from knn import KNN
 

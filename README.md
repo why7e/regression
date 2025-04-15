@@ -13,6 +13,7 @@ m.fit(X, y)
 
 pred_y = m.predict(new_X)
 weights = m.get_weights()
+intercept = m.get_intercept()
 ```
 
 # knn.py

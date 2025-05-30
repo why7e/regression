@@ -46,4 +46,4 @@ pred_y = KNN.predict(new_X)
 
 # In Progress:
 - LASSO Regression
-  A bit tougher as there's no closed solution - need to implement an optimisation algorithm (like coordinate descent)
+  - A bit tougher as there's no closed solution - need to implement an optimisation algorithm (like coordinate descent)
